@@ -7,6 +7,8 @@
 这个项目里的文件是大多数我个人需要的GRE备考资料，我尝试用程序转制了大部分的文件，让它们看起来更干净、可读、Git(-lfs)友好。
 因为这个项目是根据我自己的学习进度的，所以我会逐渐地补充文件，并且在我完成GRE测试后除非有PR否则不会再更新。
 
+## 文章列表
+
 ## 文件列表
 DOS下`tree /F`命令的输出:
 
@@ -20,23 +22,52 @@ C:.
 │  LICENSE
 │  README-EN.md
 │  README.md
-│
+│  TreeToPaste.bat
+│  
 └─L-GRE-词汇
+    ├─L-GRE-Magoosh
+    │      L-GRE-MagooshFlashcard.csv
+    │      L-GRE-MagooshFlashcard.xlsx
+    │      
+    ├─L-GRE-Pre2012
+    │  ├─L-GRE-杨鹏17天搞定GRE单词
+    │  │      L-GRE-17天搞定GRE单词完全版-杨鹏.pdf
+    │  │      
+    │  ├─L-GRE-词以类记
+    │  │      L-GRE-GRE词以类记-张红岩.csv
+    │  │      L-GRE-GRE词以类记-张红岩.xls
+    │  │      
+    │  ├─L-GRE-词汇精选9th
+    │  │      L-GRE-词汇精选9th.csv
+    │  │      L-GRE-词汇精选9th.pdf
+    │  │      L-GRE-词汇精选9th.xls
+    │  │      
+    │  └─L-GRE-陈琦3000
+    │          L-GRE-陈琦新GRE核心3000词大愚整理版.csv
+    │          L-GRE-陈琦新GRE核心3000词大愚整理版.xls
+    │          
     ├─L-GRE-佛脚词汇
     │  ├─L-GRE-佛脚词汇
     │  │      L-GRE-佛脚词表.csv
     │  │      L-GRE-佛脚词表.xlsx
-    │  │
+    │  │      
     │  └─L-GRE-佛脚词汇网络版2017
     │          GRE佛脚词汇表网络版2017.pdf
-    │
+    │          
     ├─L-GRE-再要你命3000
     │  ├─L-GRE-3000词助记与精炼
     │  │      L-GRE-GRE核心词汇助记与精练第2版.pdf
-    │  │
-    │  └─L-GRE-再要你命3000顺序版
+    │  │      
+    │  ├─L-GRE-再要你命3000顺序版
+    │  │      L-GRE-再要你命3000.csv
+    │  │      L-GRE-再要你命3000.xlsx
+    │  │      
+    │  └─L-GRE-再要你命3000顺序版QA
     │          L-GRE-再要你命3000顺序版QA.txt
-    │
+    │          
+    ├─L-GRE-巴朗词表
+    │      L-GRE-Barron3500.pdf
+    │      
     └─L-GRE-机经词汇
         └─L-GRE-机经词汇-霍
                 COPYING
