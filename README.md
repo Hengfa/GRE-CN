@@ -30,57 +30,63 @@ C:.
 │  README.md
 │  TreeToPaste.bat
 │  
-└─L-GRE-词汇
-    ├─L-GRE-Magoosh
-    │      L-GRE-MagooshFlashcard.csv
-    │      L-GRE-MagooshFlashcard.xlsx
-    │      
-    ├─L-GRE-Pre2012
-    │  ├─L-GRE-杨鹏17天搞定GRE单词
-    │  │      L-GRE-17天搞定GRE单词完全版-杨鹏.pdf
-    │  │      
-    │  ├─L-GRE-词以类记
-    │  │      L-GRE-GRE词以类记-张红岩.csv
-    │  │      L-GRE-GRE词以类记-张红岩.xls
-    │  │      
-    │  ├─L-GRE-词汇精选9th
-    │  │      L-GRE-词汇精选9th.csv
-    │  │      L-GRE-词汇精选9th.pdf
-    │  │      L-GRE-词汇精选9th.xls
-    │  │      
-    │  └─L-GRE-陈琦3000
-    │          L-GRE-陈琦新GRE核心3000词大愚整理版.csv
-    │          L-GRE-陈琦新GRE核心3000词大愚整理版.xls
-    │          
-    ├─L-GRE-佛脚词汇
-    │  ├─L-GRE-佛脚词汇
-    │  │      L-GRE-佛脚词表.csv
-    │  │      L-GRE-佛脚词表.xlsx
-    │  │      
-    │  └─L-GRE-佛脚词汇网络版2017
-    │          L-GRE-GRE佛脚词汇表网络版2017.pdf
-    │          
-    ├─L-GRE-再要你命3000
-    │  ├─L-GRE-3000词助记与精炼
-    │  │      L-GRE-GRE核心词汇助记与精练第2版.pdf
-    │  │      
-    │  ├─L-GRE-再要你命3000顺序版
-    │  │      L-GRE-再要你命3000.csv
-    │  │      L-GRE-再要你命3000.xlsx
-    │  │      
-    │  └─L-GRE-再要你命3000顺序版QA
-    │          L-GRE-再要你命3000顺序版QA.txt
-    │          
-    ├─L-GRE-巴朗词表
-    │      L-GRE-Barron3500.pdf
-    │      
-    └─L-GRE-机经词汇
-        └─L-GRE-机经词汇-霍
-                COPYING
-                L-GRE-同义词乱序-霍.CSV
-                L-GRE-机经词汇-霍.CSV
-                L-GRE-机经词汇-霍.xlsx
-                L-GRE-补充词汇-霍.CSV
+├─L-GRE-词汇
+│  ├─L-GRE-Magoosh
+│  │      L-GRE-MagooshFlashcard.csv
+│  │      L-GRE-MagooshFlashcard.xlsx
+│  │      
+│  ├─L-GRE-Pre2012
+│  │  ├─L-GRE-杨鹏17天搞定GRE单词
+│  │  │      L-GRE-17天搞定GRE单词完全版-杨鹏.pdf
+│  │  │      
+│  │  ├─L-GRE-词以类记
+│  │  │      L-GRE-GRE词以类记-张红岩.csv
+│  │  │      L-GRE-GRE词以类记-张红岩.xls
+│  │  │      
+│  │  ├─L-GRE-词汇精选9th
+│  │  │      L-GRE-词汇精选9th.csv
+│  │  │      L-GRE-词汇精选9th.pdf
+│  │  │      L-GRE-词汇精选9th.xls
+│  │  │      
+│  │  └─L-GRE-陈琦3000
+│  │          L-GRE-陈琦新GRE核心3000词大愚整理版.csv
+│  │          L-GRE-陈琦新GRE核心3000词大愚整理版.xls
+│  │          
+│  ├─L-GRE-佛脚词汇
+│  │  ├─L-GRE-佛脚词汇
+│  │  │      L-GRE-佛脚词表.csv
+│  │  │      L-GRE-佛脚词表.xlsx
+│  │  │      
+│  │  └─L-GRE-佛脚词汇网络版2017
+│  │          L-GRE-GRE佛脚词汇表网络版2017.pdf
+│  │          
+│  ├─L-GRE-再要你命3000
+│  │  ├─L-GRE-3000词助记与精炼
+│  │  │      L-GRE-GRE核心词汇助记与精练第2版.pdf
+│  │  │      
+│  │  ├─L-GRE-再要你命3000顺序版
+│  │  │      L-GRE-再要你命3000.csv
+│  │  │      L-GRE-再要你命3000.xlsx
+│  │  │      
+│  │  └─L-GRE-再要你命3000顺序版QA
+│  │          L-GRE-再要你命3000顺序版QA.txt
+│  │          
+│  ├─L-GRE-巴朗词表
+│  │      L-GRE-Barron3500.pdf
+│  │      
+│  └─L-GRE-机经词汇
+│      └─L-GRE-机经词汇-霍
+│              COPYING
+│              L-GRE-同义词乱序-霍.CSV
+│              L-GRE-机经词汇-霍.CSV
+│              L-GRE-机经词汇-霍.xlsx
+│              L-GRE-补充词汇-霍.CSV
+│              
+└─L-GRE-阅读
+    └─L-GRE-老肖阅读真题
+            COPYING
+            L-GRE-老肖新GRE阅读真题大合集.pdf
+            L-GRE-老肖新GRE阅读真题大合集答案.csv
 ```
 
 ## 技术方面
